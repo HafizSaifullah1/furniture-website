@@ -1,0 +1,66 @@
+/* *{
+    font-family: 'Poppins', sans-serif;
+
+} */
+.socialmediaicons {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: black;
+    margin: 8px;
+
+}
+
+.brandbox {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+}
+.brandbox div{
+    padding: 30px;
+}
+.brandbox a{
+text-decoration: none;
+/* text-transform: uppercase; */
+color: black;
+font-size: 1.5em;
+font-weight: bold;
+display: block;
+
+}
+
+.brandbox:hover {
+    background-size: 150%;
+}
+
+.brandbox :hover a{
+color: orange;
+
+}
+
+ .t:hover a{
+    color: orange;
+    
+}
+.t a{
+    text-decoration: none;
+    color: black;
+   font-size: 1.1em;
+}
+
+.new a{text-decoration: none;
+color: black;
+
+text-align: right;
+float: right;
+margin: 10px;
+
+}
+
+.btn:hover{
+background-color: orange;  
+}
+.btn{
+    border-radius: 0;
+}
